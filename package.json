@@ -1,7 +1,21 @@
 {
   "name": "mirage",
   "version": "0.1.0",
-  "private": true,
+  "description": "A standalone todo manager using firebase for personal use",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbhaxor/mirage"
+  },
+  "author": {
+    "name": "Gurkirat Singh",
+    "email": "tbhaxor@gmail.com",
+    "url": "https://tbhaxor.me"
+  },
+  "bugs": {
+    "url": "https://github.com/tbhaxor/mirage/issues/new?template=bug_report.md"
+  },
+  "readme": "https://github.com/tbhaxor/mirage/#mirage---",
+  "homepage": "https://tbhaxor.me/mirage",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
