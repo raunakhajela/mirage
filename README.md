@@ -1,11 +1,4 @@
-<center><font size=7>Mirage</font></center>
-<center>
-
-![](https://img.shields.io/badge/version-0.1.0b1-orange.svg?longCache=true&style=for-the-badge) ![](https://img.shields.io/badge/Production%20Status-Stable%2FBeta-brightgreen.svg?longCache=true&style=for-the-badge) ![](https://img.shields.io/badge/Platform-Cross%20Platform-blue.svg?longCache=true&style=for-the-badge)
-
-</center>
-<hr>
-
+# Mirage ![](https://img.shields.io/badge/Version-0.1.0b1-orange.svg?longCache=true&style=popout-square) ![](https://img.shields.io/badge/Production%20Status-Stable%2FBeta-green.svg?longCache=true&style=popout-square) ![](https://img.shields.io/badge/Platform-Cross%20Platform-blue.svg?longCache=true&style=popout-square)
 Mirage is a simple application to manage your tasks.
 
 # Features
