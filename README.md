@@ -4,7 +4,8 @@
 ![](https://img.shields.io/badge/version-0.1.0b1-orange.svg?longCache=true&style=for-the-badge) ![](https://img.shields.io/badge/Production%20Status-Stable%2FBeta-brightgreen.svg?longCache=true&style=for-the-badge) ![](https://img.shields.io/badge/Platform-Cross%20Platform-blue.svg?longCache=true&style=for-the-badge)
 
 </center>
-=====
+<hr>
+
 Mirage is a simple application to manage your tasks.
 
 # Features
