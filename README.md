@@ -38,8 +38,7 @@ _Before setup make sure you have `node` and `npm` in your path_
     ```
     $ npm run build
     ```
-3. Opening `dist/index.html` and replacing all `=/` with '='
-4. Run application, simple open `dist/index.html` file
+3. Run application, simple open `dist/index.html` file
 **Note:** All code will be compiled and build in `dist/` folder
 
 # Getting Firebase Crendentials
