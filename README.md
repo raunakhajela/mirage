@@ -33,8 +33,9 @@ Mirage is a simple application to manage your tasks.
     ```
     $ npm run build
     ```
-
-**Note:** All code will be compiled and build in `dist/` folder. And to run application, simple open `dist/index.html` file
+3. Opening `dist/index.html` and replacing all `=/` with '='
+4. Run application, simple open `dist/index.html` file
+**Note:** All code will be compiled and build in `dist/` folder
 
 # Getting Firebase Crendentials
 1. Create a Firebase project in the [Firebase console](https://console.firebase.google.com/).
