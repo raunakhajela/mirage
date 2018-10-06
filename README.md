@@ -8,6 +8,12 @@ Mirage is a simple application to manage your tasks.
 4. Once built, can be used on any device with any browser (i am not sure it it will be compatible with IE)
 5. Cross Platform
 
+# Screen Shots
+## Home
+![image](https://user-images.githubusercontent.com/28386721/46574499-f3be3480-c9c1-11e8-838f-30b121d4c780.png)
+## Viewing particular To Do
+![image](https://user-images.githubusercontent.com/28386721/46574507-08023180-c9c2-11e8-9f73-8527146a3f88.png)
+
 # Requirement
 1. [Firebase Account](https://firebase.google.com/)
 2. [Node JS and NPM](https://nodejs.org)
