@@ -1,5 +1,18 @@
-# Mirage
+<center><font size=7>Mirage</font></center>
+<center>
+
+![](https://img.shields.io/badge/version-0.1.0b1-orange.svg?longCache=true&style=for-the-badge) ![](https://img.shields.io/badge/Production%20Status-Stable%2FBeta-brightgreen.svg?longCache=true&style=for-the-badge) ![](https://img.shields.io/badge/Platform-Cross%20Platform-blue.svg?longCache=true&style=for-the-badge)
+
+</center>
+=====
 Mirage is a simple application to manage your tasks.
+
+# Features
+1. No need of backend server. Firebase Credentials are sufficent
+2. Fast
+3. Elegant Look
+4. Once built, can be used on any device with any browser (i am not sure it it will be compatible with IE)
+5. Cross Platform
 
 # Requirement
 1. [Firebase Account](https://firebase.google.com/)
