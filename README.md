@@ -16,7 +16,12 @@ Mirage is a simple application to manage your tasks.
 5. Stable Internet Connection
 
 # How To Setup
-1. Edit `src/firebaseConfig.js` and add your firbase credentials and replace `ENTER VALUE HERE` with respected value
+_Before setup make sure you have `node` and `npm` in your path_
+1. Install vue cli
+   ```
+   $ npm i -g @vue/cli
+   ```
+2. Edit `src/firebaseConfig.js` and add your firbase credentials and replace `ENTER VALUE HERE` with respected value
     ```js
     export default {
         apiKey: "ENTER VALUE HERE",
