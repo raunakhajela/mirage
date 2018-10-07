@@ -1,7 +1,7 @@
 # Mirage ![](https://img.shields.io/badge/Version-0.1.0b1-orange.svg?longCache=true&style=popout-square) ![](https://img.shields.io/badge/Production%20Status-Stable%2FBeta-green.svg?longCache=true&style=popout-square) ![](https://img.shields.io/badge/Platform-Cross%20Platform-blue.svg?longCache=true&style=popout-square)
-> Damm easy To do manager web app for personal use only
+> Damn easy To do manager web app for personal use only
 
-**_Mirage_** is an slimline and damm easy web application to manage all your To Dos. I works on [Firebase](https://firebase.google.com) Database. 
+**_Mirage_** is an slimline and damn easy web application to manage all your To Dos. I works on [Firebase](https://firebase.google.com) Database. 
 
 Since its a web app, you can use it on any device (in mobile phone) that has browser.
 
@@ -12,6 +12,7 @@ Since its a web app, you can use it on any device (in mobile phone) that has bro
 4. Once built, can be used on any device with any browser (i am not sure it it will be compatible with IE)
 5. Cross Platform
 6. Progress Tracking
+7. One time config
 
 # Screen Shots
 ## Home
