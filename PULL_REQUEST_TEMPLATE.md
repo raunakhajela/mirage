@@ -1,9 +1,10 @@
-**Issue ID (if any or simply type `NIL`) : **
+**Issue ID (if any or simply type `NIL`) :**
+
 **Related To:**
 - [ ] Readme / Docs
 - [ ] Bug Fix
 - [ ] New Feature
 - [ ] Enhancement
 
-**Changes Made **
+**Changes Made**
 <!-- short description but more than commit message -->
