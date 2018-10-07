@@ -43,7 +43,7 @@ _Before setup make sure you have `node` and `npm` in your path_
         messagingSenderId: "ENTER VALUE HERE"
     };
     ```
-    Dont know how to get these values? see [this](#Getting-Firebase-Crendentials)
+    Dont know how to get these values? see [this](#getting-firebase-crendentials)
 
 2. Compiling all Code
     ```
