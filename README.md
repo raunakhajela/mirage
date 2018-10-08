@@ -5,6 +5,8 @@
 
 Since its a web app, you can use it on any device (in mobile phone) that has browser.
 
+**Note:** [Here](https://tbhaxor.me/mirage/test) is the link of how live demo of _Mirage_. Let it be clear, if you see any bad/abussive content plz do report or delete for FOSS community. Prior concern: that was not added by my
+
 # Features
 1. No need of backend server. Firebase Credentials are sufficent
 2. Fast
