@@ -1,17 +1,17 @@
 # Mirage ![](https://img.shields.io/badge/Version-0.1.0b1-orange.svg?longCache=true&style=popout-square) ![](https://img.shields.io/badge/Production%20Status-Stable%2FBeta-green.svg?longCache=true&style=popout-square) ![](https://img.shields.io/badge/Platform-Cross%20Platform-blue.svg?longCache=true&style=popout-square)
-> Damn easy To do manager web app for personal use only
+> Damn easy To Do manager web app for personal use only.
 
-**_Mirage_** is an slimline and damn easy web application to manage all your To Dos. I works on [Firebase](https://firebase.google.com) Database. 
+**_Mirage_** is an slimline and damn easy web application to manage all your To Dos. It works on [Firebase](https://firebase.google.com) Database. 
 
 Since its a web app, you can use it on any device (in mobile phone) that has browser.
 
-**Note:** [Here](https://tbhaxor.me/mirage/test) is the link of how live demo of _Mirage_. Let it be clear, if you see any bad/abussive content plz do report or delete for FOSS community. Prior concern: that was not added by my
+**Note:** [Here](https://tbhaxor.me/mirage/test) is the link to a live demo of _Mirage_. Let it be clear, if you see any bad/abusive content plz do report or delete for FOSS community. Prior concern: that was not added by me.
 
 # Features
-1. No need of backend server. Firebase Credentials are sufficent
+1. No need of backend server. Firebase Credentials are sufficent.
 2. Fast
 3. Elegant Look
-4. Once built, can be used on any device with any browser (i am not sure it it will be compatible with IE)
+4. Once built, can be used on any device with any browser (I am not sure it will be compatible with IE)
 5. Cross Platform
 6. Progress Tracking
 7. One time config
@@ -26,7 +26,7 @@ Since its a web app, you can use it on any device (in mobile phone) that has bro
 1. [Firebase Account](https://firebase.google.com/)
 2. [Node JS and NPM](https://nodejs.org)
 3. Code Editor (any)
-4. Browser (any not IE)
+4. Browser (any except IE)
 5. Stable Internet Connection
 
 # How To Setup
@@ -35,7 +35,7 @@ _Before setup make sure you have `node` and `npm` in your path_
    ```
    $ npm i -g @vue/cli
    ```
-2. Edit `src/firebaseConfig.js` and add your firbase credentials and replace `ENTER VALUE HERE` with respected value
+2. Edit `src/firebaseConfig.js` and add your Firebase credentials and replace `ENTER VALUE HERE` with respective value
     ```js
     export default {
         apiKey: "ENTER VALUE HERE",
@@ -46,13 +46,13 @@ _Before setup make sure you have `node` and `npm` in your path_
         messagingSenderId: "ENTER VALUE HERE"
     };
     ```
-    Dont know how to get these values? see [this](#getting-firebase-crendentials)
+    Don't know how to get these values? see [this](#getting-firebase-crendentials)
 
 2. Compiling all Code
     ```
     $ npm run build
     ```
-3. Run application, simple open `dist/index.html` file
+3. Run application, simply open `dist/index.html` file
 **Note:** All code will be compiled and build in `dist/` folder
 
 # Getting Firebase Crendentials
